@@ -10,8 +10,9 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+
+Report detailing work done in the Greene Lab at the University of Pennsylvania for the Summer of 2018.
+Summer research conducted as part of the Penn Vagelos Scholars Program in Molecular Life Science (MLS).
 
 ## Manubot
 
