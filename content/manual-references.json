@@ -18,5 +18,25 @@
       "family": "Himmelstein"
     }
   ]
+},
+{
+  "type": "webpage",
+  "standard_citation": "url:https://www.omim.org/entry/601691",
+  "URL": "https://www.omim.org/entry/601691",
+  "title": "ATP-BINDING CASSETTE, SUBFAMILY A, MEMBER 4; ABCA4, MIM: 601691",
+  "container-title": "Online Mendelian Inheritance in Man, OMIM®. Johns Hopkins University, Baltimore, MD.",
+  "issued": {
+    "date-parts": [
+      [
+        2016
+      ]
+    ]
+  },
+  "author": [
+    {
+      "given": "Victor",
+      "family": "McKusick"
+    }
+  ]
 }
 ]
